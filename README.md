@@ -6,7 +6,6 @@ This is a simple HTML, CSS, and JavaScript project that creates an animated hear
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Description](#description)
 - [Features](#features)
 - [How to Use](#how-to-use)
